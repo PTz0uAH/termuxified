@@ -36,9 +36,9 @@ Install to "$PREFIX/opt" manually via "dpkg -i fpc-3.2.2.aarch64-termux.deb" or 
 - cd $PREFIX/opt
 - ./install_freepascal.sh
   
-Hint: study "install_freepascal.sh" and adapt ".bashrc" to set PATH and EXPORTS for permanent availability of FreePascal.
-if you do not want to modify ".bashrc" you can call "install_freepascal.sh" before each time you want to use "fpc"
-once the binaries are "first-time" installed the "install_freepascal.sh" just sets the environment.
+Hint: study "install_freepascal.sh" and adapt "$HOME/.bashrc" to set PATH and EXPORTS for permanent availability of FreePascal.
+If you do not want to modify "$HOME/.bashrc" you can call "install_freepascal.sh" once if you want to use "fpc" in a new terminal window.
+Once the binaries are "first-time" installed consequently the "install_freepascal.sh" just sets the environment.
 
 Removal:
 - "pkg uninstall fpc" will remove $PREFIX/opt/fpc-3.2.2.aarch64-termux.tar.gz and $PREFIX/opt/install_freepascal.sh so make sure you do not remove those files by hand.
