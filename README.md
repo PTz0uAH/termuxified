@@ -19,6 +19,8 @@ Todo:
 - make standalone fpc-3.2.2 source package, independent from architecture (arm/aarch64)
 - remove source-tree from fpc-3.2.2.(arm|aarch64)-termux.deb to decrease its size (GH complains and warns pushing the debs if exceeding 50Mb but tolerates up to 100Mb per file)
 
+note: if not using LFS or seperate hosting for bigger deb-files you are adviced to "clone" my repo with option "--depth 1" to ignore debs from history which can slow down the download-process significantly!
+
 With kind regards,
 
 PTz()uAH
