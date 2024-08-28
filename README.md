@@ -1,4 +1,4 @@
-Welcome Termux devs..
+Welcome Termux devs & Students..
 
 "Termuxified" means "adapted for usage with Termux"
 
