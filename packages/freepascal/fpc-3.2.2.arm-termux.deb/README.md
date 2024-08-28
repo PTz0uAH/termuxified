@@ -46,7 +46,7 @@ Removal:
 - remove the physical installation "rm -rf $PREFIX/opt/fpc-3.2.2.arm-termux"
 - remove edits from "~/.bashrc"
 - remove the deb file if downloaded
-- 
+ 
 Todo: make the deb signed so all the manual actions are performed "automagically"
 
 FPC4Termux Development Overview:
