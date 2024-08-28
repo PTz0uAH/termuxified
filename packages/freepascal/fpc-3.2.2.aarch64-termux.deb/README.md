@@ -3,7 +3,7 @@ Welcome Termux devs..
 "Termuxified" means "adapted for usage with Termux"
 
 Here you can get some minimal info on how package "fpc-3.2.2.aarch64-termux.deb" was created/deployed.
-- get the 3.2.2 distri of Freepascal for Aarch64-Android via https://www.freepascal.org and install it.
+- get the 3.2.0 distri of Freepascal for Aarch64-Android via https://www.freepascal.org and install it.
 - use "$FPCDIR/bin/fpcmkcfg" to create "$HOME/.fpc.cfg" or create it manually
 - get and unpack 3.2.2 source and cd into its location
 - perform "make zipinstall" and "make zipsourceinstall" with correct params using the old fpc as bootstrap compiler
