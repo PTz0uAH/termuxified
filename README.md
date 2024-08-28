@@ -26,4 +26,7 @@ With kind regards,
 
 PTz()uAH
 
-ergo: IT-students should be able to build a FPC distr/deb from scratch while ICT-students would depend on tools like fpcupdeluxe or preconfigured packages which are not (yet) available for arm|aarch64-android..
+ergo:
+- IT-Academics should be able to native-build a FPC AARCH64 distri/deb for Termux AARCH64 from scratch..
+- IT-Students should be able to native-build a FPC ARM distr/deb for Termux ARM from scratch..
+- ICT-students would depend on non-from-scratch-tools like fpcupdeluxe or preconfigured OOTB packages which are not (yet) available for arm|aarch64-android..
