@@ -12,4 +12,4 @@ With kind regards,
 
 PTz()uAH
 
-hint: a fpc.cfg generated with fpcmkcfg (arm) also works for aarch64 architecture
+hint: a fpc.cfg generated with fpcmkcfg (arm) also works for aarch64 architecture with minimal alterations..
