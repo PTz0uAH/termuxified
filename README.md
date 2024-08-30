@@ -8,6 +8,7 @@ Current project: FreePascal v3.2.2 (stable) for Termux
 - fpc-3.2.2.arm-termux.deb (available)
 - fpcsrc-3.2.2.arm-termux.deb (available)
 - fpcmkcfg-3.2.2.arm-termux.deb (available)
+- fpcsrc-3.2.2.aarch64-termux.deb (available)
 - fpc-3.2.2.aarch64-termux.deb (wip)
 
 Coming soon/wishlist:
