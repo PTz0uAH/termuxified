@@ -6,6 +6,8 @@ Here you find info about my experimental builds for educational & research purpo
 
 Packages:
 - fpc-3.2.2.arm-termux.deb
+- fpcsrc-3.2.2.arm-termux.deb
+- fpcmkcfg-3.2.2.arm-termux.deb
 - fpc-3.2.2.aarch64-termux.deb
 
 Status: alpha
@@ -14,4 +16,6 @@ Installation: manual/semi-automatic
 
 Support: no
 
-With kind regards PTz()uAH
+With kind regards,
+
+PTz()uAH
