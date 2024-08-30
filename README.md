@@ -20,8 +20,6 @@ Coming soon/wishlist:
 Todo:
 - compiling the build-tool of CGE did not yet succeed.. help wanted! 
 
-note: because I'm not using LFS or seperate hosting for bigger deb-files you are strongly adviced (when "cloning" my repo) the option "--depth 1" should be used to ignore debs from history which can slow down the download-process significantly!
-
 With kind regards,
 
 PTz()uAH
