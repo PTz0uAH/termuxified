@@ -2,7 +2,7 @@ Welcome Termux devs, students & teachers..
 
 "Termuxified" means "adapted for usage with Termux"
 
-Current project: FreePascal v3.2.2 (stable) for Termux
+Current projects: FreePascal v3.2.2 (stable), Amiga-gcc..
 
 "Termuxified" builds:
 - fpc-3.2.2.arm-termux.deb (available)
@@ -12,7 +12,9 @@ Current project: FreePascal v3.2.2 (stable) for Termux
 - fpc-3.2.2.aarch64-termux.deb (wip)
 
 Coming soon/wishlist:
+- classic-amiga-toolchain.deb
 - fpc-3.x.cross-amiga.deb
+- fpcdocs-3.2.2.all.deb
 - lazarus4termux (X11) on XFCE4 desktop (Integrated Development Environment)
 - cge4termux (X11) on XFCE4 desktop (Castle Game Engine)
 - and more..
