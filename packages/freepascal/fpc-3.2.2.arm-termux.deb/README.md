@@ -47,7 +47,7 @@ Removal:
 - remove edits from "~/.bashrc"
 - remove the deb file if downloaded
  
-Todo: make the deb signed so all the manual actions are performed "automagically"
+Todo: perhaps make the deb signed so all the manual actions are performed "automagically" but then one will miss all the fun IYKWIM..
 
 FPC4Termux Development Overview:
 
