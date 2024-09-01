@@ -4,7 +4,7 @@ Welcome Termux devs..
 
 Here you can get some minimal info on how package "fpc-3.2.2.arm-termux.deb" was created/deployed.
 - get the 3.2.2 distri of Freepascal for Arm-Android via https://www.freepascal.org and install it.
-- use "$FPCDIR/bin/fpcmkcfg" to create "$HOME/.fpc.cfg" or create it manually
+- use "fpcmkcfg" to create "$HOME/.fpc.cfg" or create it manually
 - get and unpack 3.2.2 source and cd into its location
 - perform "make zipinstall" and "make zipsourceinstall" with correct params using the old fpc as bootstrap compiler
 - unpack both archives to 1 single folder named fpc-3.2.2.arm-termux
