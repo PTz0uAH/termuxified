@@ -11,7 +11,7 @@ Current projects: FreePascal v3.2.2 (stable), Amiga-gcc..
 - fpcmkcfg-3.2.2.arm-termux.deb (available)
 - fpc-3.2.2.aarch64-termux.deb (wip)
 - fpcsrc-3.2.2.aarch64-termux.deb (available)
-- fpcdoc-3.2.2.aarch64-termux.deb (wip)
+- fpcdoc-3.2.2.aarch64-termux.deb (available)
 
 Coming soon/wishlist:
 - classic-amiga-toolchain.deb
