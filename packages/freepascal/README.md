@@ -9,10 +9,11 @@ Published Packages for testing:
 - fpcsrc-3.2.2.arm-termux.deb
 - fpcdoc-3.2.2.arm-termux.deb
 - fpcmkcfg-3.2.2.arm-termux.deb
+- fpc-3.2.2.aarch64-termux.deb
 - fpcsrc-3.2.2.aarch64-termux.deb
 - fpcdoc-3.2.2.aarch64-termux.deb
 
-Status: alpha
+Status: beta
 
 Installation: manual/semi-automatic
 
