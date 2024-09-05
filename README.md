@@ -9,7 +9,7 @@ Current projects: FreePascal v3.2.2 (stable), Amiga-gcc..
 - fpcsrc-3.2.2.arm-termux.deb (available)
 - fpcdoc-3.2.2.arm-termux.deb (available)
 - fpcmkcfg-3.2.2.arm-termux.deb (available)
-- fpc-3.2.2.aarch64-termux.deb (wip)
+- fpc-3.2.2.aarch64-termux.deb (available)
 - fpcsrc-3.2.2.aarch64-termux.deb (available)
 - fpcdoc-3.2.2.aarch64-termux.deb (available)
 
@@ -21,6 +21,10 @@ Coming soon/wishlist:
 - and more..
 
 Todo:
+- create ppcross68k cross-compiler to build m68k-amiga distri of fpc-3.2.2.m68k-amigaos
+- and more..
+  
+Issues:
 - compiling the build-tool of CGE did not yet succeed.. help wanted! 
 
 With kind regards,
