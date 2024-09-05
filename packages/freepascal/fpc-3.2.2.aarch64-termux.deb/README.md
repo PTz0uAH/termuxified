@@ -6,8 +6,8 @@ Here you can get some minimal info on how package "fpc-3.2.2.aarch64-termux.deb"
 - get the 3.2.0 distri of Freepascal for Aarch64-Android via https://www.freepascal.org and install it.
 - use "$FPCDIR/bin/fpcmkcfg" to create "$HOME/.fpc.cfg" or create it manually
 - get and unpack 3.2.2 source and cd into its location
-- perform "make zipinstall" and "make zipsourceinstall" with correct params using the old fpc as bootstrap compiler
-- unpack both archives to 1 single folder named fpc-3.2.2.aarch64-termux
+- perform "make zipinstall" with correct params using the old fpc as bootstrap compiler
+- unpack archive to folder named fpc-3.2.2.aarch64-termux
 - create fpc-3.2.2.aarch64-termux.tar.gz + install_freepascal.sh script + manifest
 - create fpc-3.2.2.aarch64-termux.deb with "termux-create-package"
 - deploy via "termux-apt-repo" and github pages
@@ -34,15 +34,15 @@ Installation:
 Install to "$PREFIX/opt" manually via "dpkg -i fpc-3.2.2.aarch64-termux.deb" or semi-automatic via "pkg install fpc"
 "in either way you need to perform the following actions"
 - cd $PREFIX/opt
-- ./install_freepascal.sh
+- ./install_fpc.sh
   
-Hint: study "install_freepascal.sh" and adapt "$HOME/.bashrc" to set PATH and EXPORTS for permanent availability of FreePascal.
+Hint: study "install_fpc.sh" and adapt "$HOME/.bashrc" to set PATH and EXPORTS for permanent availability of FreePascal.
 If you do not want to modify "$HOME/.bashrc" you can call "install_freepascal.sh" once if you want to use "fpc" in a new terminal window.
-Once the binaries are "first-time" installed consequently the "install_freepascal.sh" just sets the environment.
+Once the binaries are "first-time" installed consequently the "install_fpc.sh" just sets the environment.
 
 Removal:
-- "pkg uninstall fpc" will remove $PREFIX/opt/fpc-3.2.2.aarch64-termux.tar.gz and $PREFIX/opt/install_freepascal.sh so make sure you do not remove those files by hand.
-- remove any softlinks made by "install_freepascal.sh" i.e. "rm $PREFIX/bin/fpc"
+- "pkg uninstall fpc" will remove $PREFIX/opt/fpc-3.2.2.aarch64-termux.tar.gz and $PREFIX/opt/install_fpc.sh so make sure you do not remove those files by hand.
+- remove any softlinks made by "install_fpc.sh" i.e. "rm $PREFIX/bin/fpc"
 - remove the physical installation "rm -rf $PREFIX/opt/fpc-3.2.2.aarch64-termux"
 - remove edits from "~/.bashrc"
 - remove the deb file if downloaded
