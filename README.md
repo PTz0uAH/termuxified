@@ -2,7 +2,7 @@ Welcome Termux devs, students & teachers..
 
 "Termuxified" means "adapted for usage with Termux"
 
-Current projects: FreePascal v3.2.2 (stable), Amiga-gcc..
+Current projects: FreePascal v3.2.2 (stable), Amiga-gcc, CGE..
 
 "Termuxified" builds:
 - fpc-3.2.2.arm-termux.deb (available)
