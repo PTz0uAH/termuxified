@@ -6,8 +6,8 @@ Here you can get some minimal info on how package "fpc-3.2.2.arm-termux.deb" was
 - get the 3.2.2 distri of Freepascal for Arm-Android via https://www.freepascal.org and install it.
 - use "fpcmkcfg" to create "$HOME/.fpc.cfg" or create it manually
 - get and unpack 3.2.2 source and cd into its location
-- perform "make zipinstall" and "make zipsourceinstall" with correct params using the old fpc as bootstrap compiler
-- unpack both archives to 1 single folder named fpc-3.2.2.arm-termux
+- perform "make zipinstall" with correct params using the old fpc as bootstrap compiler
+- unpack archive to folder named fpc-3.2.2.arm-termux
 - create fpc-3.2.2.arm-termux.tar.gz + install_fpc.sh script + manifest
 - create fpc-3.2.2.arm-termux.deb with "termux-create-package"
 - deploy via "termux-apt-repo" and github pages
@@ -34,10 +34,10 @@ Installation:
 Install to "$PREFIX/opt" manually via "dpkg -i fpc-3.2.2.arm-termux.deb" or semi-automatic via "pkg install fpc"
 "in either way you need to perform the following actions"
 - cd $PREFIX/opt
-- ./install_freepascal.sh
+- ./install_fpc.sh
   
 Hint: study "install_fpc.sh" and adapt "$HOME/.bashrc" to set PATH and EXPORTS for permanent availability of FreePascal.
-If you do not want to modify "$HOME/.bashrc" you can call "install_freepascal.sh" once if you want to use "fpc" in a new terminal window.
+If you do not want to modify "$HOME/.bashrc" you can call "install_fpc.sh" once if you want to use "fpc" in a new terminal window.
 Once the binaries are "first-time" installed consequently the "install_fpc.sh" just sets the environment.
 
 Removal:
@@ -51,7 +51,7 @@ Todo: perhaps make the deb signed so all the manual actions are performed "autom
 
 FPC4Termux Development Overview:
 
-Status: alpha
+Status: beta
 
 Support: no
 
