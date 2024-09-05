@@ -18,7 +18,7 @@ Coming soon/wishlist:
 - fpc-3.x.cross-amiga.deb
 - lazarus4termux (X11) on XFCE4 desktop (Integrated Development Environment)
 - cge4termux (X11) on XFCE4 desktop (Castle Game Engine)
-- and more..
+- and more on-device building fun..
 
 Todo:
 - create ppcross68k cross-compiler to build m68k-amiga distri of fpc-3.2.2.m68k-amigaos
