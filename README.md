@@ -2,7 +2,14 @@ Welcome Termux devs, students & teachers..
 
 "Termuxified" means "adapted for usage with Termux"
 
-Current projects: FreePascal v3.2.2 (stable), Amiga-gcc, CGE..
+Current experimental project: FPCUPDELUXE v2.4.0fp from trunk
+- minor code changes
+- built with lazbuild
+- it runs but needs to be tested
+- so lets make it work and please just post bugs at issues
+- usage at own risk!
+
+Current experimental deb-projects: FreePascal v3.2.2 (stable), Amiga-gcc, CGE..
 
 "Termuxified" builds:
 - fpc-3.2.2.arm-termux.deb (available)
