@@ -10,5 +10,5 @@ Here you can find the experimental build of FPCUPDELUXE v2.4.0fp from trunk
 - so lets make it work and please just post bugs at issues
 - usage at own risk!
 - 
-- with kind regsrds,
+- with kind regards,
 - PTz(Peter Slootbeek)uAH
