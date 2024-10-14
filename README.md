@@ -5,7 +5,7 @@ Welcome Termux devs, students & teachers..
 Current experimental project: FPCUPDELUXE v2.4.0fp from trunk
 - minor code changes
 - 100% native no crosscompiling
-- built with lazbuild
+- build with lazbuild
 - it runs but needs to be tested
 - so lets make it work and please just post bugs at issues
 - usage at own risk!
