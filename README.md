@@ -3,11 +3,12 @@ Welcome Termux devs, students & teachers..
 "Termuxified" means "adapted for usage with Termux"
 
 Current experimental project: FPCUPDELUXE v2.4.0fp from trunk
-- minor code changes
-- 100% native no crosscompiling
-- build with lazbuild
-- it runs but needs to be tested
-- so lets make it work and please just post bugs at issues
+- minor code changes..
+- 100% native no crosscompiling..
+- build with lazbuild..
+- it runs and I managed to create a working FPC & LAZARUS..
+- that took some effort but lets make it work better..
+- please just post bugs at issues..
 - usage at own risk!
 
 Current experimental deb-projects: FreePascal v3.2.2 (stable), Amiga-gcc, CGE..
