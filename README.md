@@ -33,8 +33,8 @@ Todo:
 - create ppcross68k cross-compiler to build m68k-amiga distri of fpc-3.2.2.m68k-amigaos
 - and more..
   
-Issues:
-- compiling the build-tool of CGE did not yet succeed.. help wanted! 
+Issues resolved:
+- compiling the build-tool of CGE worked though unusable in current state.. (WIP) 
 
 With kind regards,
 
