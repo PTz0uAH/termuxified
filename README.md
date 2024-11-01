@@ -10,7 +10,7 @@ Current experimental project: FPCUPDELUXE v2.4.0fp from trunk
 - that took some effort but lets make it work better..
 - please just post bugs at issues..
 - usage at own risk!
-- read more at https://github.com/PTz0uAH/termuxified/issues/3
+- read more at https://github.com/PTz0uAH/termuxified/issues/2
 
 Current experimental deb-projects: FreePascal v3.2.2 (stable), Amiga-gcc, CGE..
 
