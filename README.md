@@ -17,7 +17,7 @@ Current experimental project1: FPCUPDELUXE v2.4.0fp for Termux..
 - usage at own risk!
 - read more at https://github.com/PTz0uAH/termuxified/issues/2
 
-Current experimental deb-projects: FreePascal v3.2.2 (stable), Amiga-gcc, CGE..
+Current experimental deb-projects: FreePascal v3.2.2 (stable)..
 
 "Termuxified" builds:
 - fpc-3.2.2.arm-termux.deb (available)
