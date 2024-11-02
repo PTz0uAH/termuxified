@@ -22,6 +22,7 @@ Current experimental deb-projects: FreePascal v3.2.2 (stable), Amiga-gcc, CGE..
 - fpc-3.2.2.aarch64-termux.deb (available)
 - fpcsrc-3.2.2.aarch64-termux.deb (available)
 - fpcdoc-3.2.2.aarch64-termux.deb (available)
+- read more at https://github.com/PTz0uAH/termuxified/issues/4
 
 Coming soon/wishlist:
 - classic-amiga-toolchain.deb
@@ -39,4 +40,4 @@ Issues resolved:
 
 With kind regards,
 
-PTz()uAH
+PTz(Peter Slootbeek)uAH
