@@ -9,6 +9,6 @@ Here you can find the experimental build of FPCUPDELUXE v2.4.0fp from trunk
 - it runs and was tested to create fpc and lazarus from trunk (lots of bugs to conquer)
 - so lets make it work and please just post bugs at issues
 - usage at own risk!
-- 
-- with kind regards,
-- PTz(Peter Slootbeek)uAH
+
+with kind regards,
+PTz(Peter Slootbeek)uAH
