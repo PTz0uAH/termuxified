@@ -33,7 +33,7 @@ Current experimental deb-projects: FreePascal v3.2.2 (stable)..
 - compiling the build-tool of CGE worked though unusable in current state.. (WIP)
 - read more at https://github.com/PTz0uAH/termuxified/issues/1 
 
-Coming soon/wishlist:
+Coming soon/wishlist/wip:
 - classic-amiga-toolchain
 - fpgui framework for FPC/LAZARUS x11/xfce4
 - and more on-device building fun..
