@@ -36,7 +36,8 @@ Todo:
 - and more..
   
 Issues resolved:
-- compiling the build-tool of CGE worked though unusable in current state.. (WIP) 
+- compiling the build-tool of CGE worked though unusable in current state.. (WIP)
+- read more at https://github.com/PTz0uAH/termuxified/issues/1 
 
 With kind regards,
 
