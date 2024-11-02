@@ -1,13 +1,13 @@
 Welcome Termux devs, students & teachers..
 
-"Termuxified" means "adapted for usage with Termux"
+"Termuxified" means "adapted for usage with Termux (non-rooted)"
 
 Current experimental project2: Amiberry "Amiga Emulator for Termux"..
  - build and tested OK on aarch64
  - build and untested on arm
  - read more at https://github.com/PTz0uAH/termuxified/issues/3
 
-Current experimental project1: FPCUPDELUXE v2.4.0fp from trunk..
+Current experimental project1: FPCUPDELUXE v2.4.0fp for Termux..
 - minor code changes..
 - 100% native no crosscompiling..
 - build with lazbuild..
