@@ -2,6 +2,10 @@ Welcome Termux devs, students & teachers..
 
 "Termuxified" means "adapted for usage with Termux (non-rooted)"
 
+Current experimental project4: Fs-uae "Termuxified" Amiga Emulator..
+ - build and tested OK on aarch64
+ - read more at https://github.com/PTz0uAH/termuxified/issues/6
+
 Current experimental project3: FpGUI toolkit for FPC
  - minor code changes, partly working..
  - read more at https://github.com/PTz0uAH/termuxified/issues/5
