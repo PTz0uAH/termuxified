@@ -10,12 +10,12 @@ Current experimental project3: FpGUI toolkit for FPC
  - minor code changes, partly working..
  - read more at https://github.com/PTz0uAH/termuxified/issues/5
 
-Current experimental project2: Amiberry "Amiga Emulator for Termux"..
+Current experimental project2: Amiberry "Termuxified" Amiga Emulator..
  - build and tested OK on aarch64
  - build and tested OK on arm
  - read more at https://github.com/PTz0uAH/termuxified/issues/3
 
-Current experimental project1: FPCUPDELUXE v2.4.0fp for Termux..
+Current experimental project1: FPCUPDELUXE "Termuxified" v2.4.0fp..
 - minor code changes..
 - 100% native no crosscompiling..
 - build with lazbuild..
